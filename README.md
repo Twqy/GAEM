@@ -1,2 +1,2 @@
-# GAeM - making game with friend
+# GAeM - making game with friends
 # Yay
